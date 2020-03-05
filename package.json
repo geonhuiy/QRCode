@@ -1,0 +1,25 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "Simple QR Code reader",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geonhuiy/QRCode.git"
+  },
+  "author": "GeonHui Yoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geonhuiy/QRCode/issues"
+  },
+  "homepage": "https://github.com/geonhuiy/QRCode#readme"
+}
